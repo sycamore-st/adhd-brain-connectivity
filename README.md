@@ -1,4 +1,7 @@
 ## ADHD Brain Connectivity Saliency with Deep Learning
+
+Google Colab: https://colab.research.google.com/drive/1evxNTk5tjNQzoLhGF2iaUYESJgVno0sn?usp=sharing
+
 **Project Summary**
 
 This script analyzes functional brain connectivity to identify salient brain regions associated with 
